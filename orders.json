@@ -1,0 +1,47 @@
+{
+  "S42932": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Thomas Kehl, Kirtaweg 8, 81829 München, Deutschland",
+    "receiver": "Franz Merk, Am Raumbach 7, 08468 Heinsdorfergrund, Deutschland",
+    "price": "5.800 €",
+    "description": "Hersteller: MV Agusta<br>Typ: F4 1000 Monoposto<br>Fahrgestelnummer: ZCGAKFGM36V200235<br>Erstzulassung: 07/2006<br>KM laut Vorbesitzer: 13.649 km<br>Leistung: 122 kW (166 PS)<br>Hubraum: 998 cm³<br>Farbe: Rot<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Franz Merk<br>Am Raumbach 7<br>08468 Heinsdorfergrund<br>Deutschland<br>Telefon: +49 176 73247085",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "28-08-2025",
+    "deliveryDate": "03-09-2025",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
